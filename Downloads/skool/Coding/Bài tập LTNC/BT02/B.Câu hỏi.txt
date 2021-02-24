@@ -1,0 +1,21 @@
+Phan B
+Cau 1:  b
+Cau 2:  d
+Cau 3:  c
+Cau 4:  b
+Cau 5:  d
+Cau 6:  b
+Cau 7:  c
+Cau 8:  a, b, c
+Cau 9:  d
+Cau 10: b
+Cau 11: c
+Cau 12: b
+Cau 13: b
+Cau 14: d
+Cau 15: d
+Cau 16: c
+Cau 17: c
+Cau 18: d
+Cau 19: c
+Cau 20: b

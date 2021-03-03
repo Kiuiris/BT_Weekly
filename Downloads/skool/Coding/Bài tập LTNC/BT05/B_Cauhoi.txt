@@ -1,0 +1,23 @@
+Cau 3: 1000 lan
+Cau 4: Cho ket qua 1717 (a = 17 va a sau khi goi ham negate van bang 17)
+Cau 6: Chuong trinh bao loi bien dich vi loi goi ham f(1,2) co the dung de goi ca 2 ham f
+Cau 7: D
+Cau 8: A?
+Cau 9: B
+Cau 10: B
+Cau 11: C
+Cau 12: A va B
+Cau 13: D
+Cau 14: D
+Cau 15: B
+Cau 16: D?
+Cau 17: A
+Cau 18: A
+Cau 19: B
+Cau 20: C
+Cau 21: B
+Cau 22: C
+Cau 23: A?
+Cau 24: B?
+Cau 25: D?
+Cau 26: B?
